@@ -17,7 +17,7 @@ I am a 16-year-old boy with a deep passion for computer programming and a strong
                     
 ### Socials
   - [Github][github_profile]
-  - [Linkedin](linkedin)
+  - [Linkedin][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/dobariya-jeel-developer
 [github_profile]: https://www.github.com/JeelDobariya38
+[linkedin]: https://www.linkedin.com/in/dobariya-jeel-developer
