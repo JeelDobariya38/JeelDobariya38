@@ -9,27 +9,30 @@ I am a 16-year-old boy with a deep passion for computer programming and a strong
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [MyPortfolio](http://jeeldobariya38.github.io/Personal-Portfolio/)
 *   ✉️  You can contact me at [dobariyaj34@gmail.com](mailto:dobariyaj34@gmail.com)
-*   🧠  I'm learning Nodejs### Skills 
+*   🧠  I'm learning Nodejs
+
+### Skills 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON 
-                                <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-                    </p>
+  ICON ICON ICON ICON ICON ICON ICON ICON ICON 
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
-                      <a href="https://www.github.com/JeelDobariya38" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/dobariya-jeel-developer" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>
+<p align="left">
+  <a href="https://www.github.com/JeelDobariya38" target="_blank" rel="noreferrer">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </picture>
+  </a>
+    <a href="https://www.linkedin.com/in/dobariya-jeel-developer" target="_blank" rel="noreferrer">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </picture>
+  </a>
+</p>
