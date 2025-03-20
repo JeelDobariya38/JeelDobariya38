@@ -22,7 +22,7 @@ I am a 16-year-old boy with a deep passion for computer programming and a strong
 🔗 **Portfolio:** [My Portfolio](https://jeeldobariya38.github.io/Personal-Portfolio/)  
 📌 **Password Manager (Android App)** – [Release Page](https://github.com/JeelDobariya38/password-manager/releases) [Download Link](https://github.com/JeelDobariya38/password-manager/releases/download/v0.1.0/password-manager-app-universal-release.apk)  
 🏡 **ScriptMaker (Web App)** – [Live Demo](https://jeeldobariya38.github.io/ScriptMaker/) [Repo](https://github.com/JeelDobariya38/ScriptMaker/)  
-💬 **PyFileHandling (PYPI Package)** – [Live Demo](https://jeeldobariya38.github.io/PyFileHandling/) [Docs](https://pypi.org/project/pyfilehandling/)  
+💬 **PyFileHandling (PYPI Package)** – [Live Demo](https://pypi.org/project/pyfilehandling/) [Docs](https://jeeldobariya38.github.io/PyFileHandling/)  
 
 ---
 
