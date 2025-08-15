@@ -2,7 +2,6 @@
 <h3 align="center">Mini Software Engineer | Developer | Innovative Thinker</h3>
 
 <p align="center">
-    <b>Visitor Count:</b><br>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=JeelDobariya38.JeelDobariya38&format=true"/>
 </p>
 
