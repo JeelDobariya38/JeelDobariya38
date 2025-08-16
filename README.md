@@ -28,6 +28,7 @@ I am a 16-year-old boy with a deep passion for computer programming and a strong
 ## 📊 **GitHub Stats**
 
 <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeelDobariya38&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=JeelDobariya38's%20Contribution%20Graph" alt="@ashutosh00710/github-readme-activity-graph" />
     <img src="https://github-readme-stats.vercel.app/api?username=JeelDobariya38&show_icons=true&theme=radical" width="400px" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeelDobariya38&theme=radical" width="400px" alt="GitHub Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelDobariya38&layout=compact&theme=radical" width="400px" alt="Top Languages">
@@ -84,11 +85,14 @@ I am a 16-year-old boy with a deep passion for computer programming and a strong
 
 ### ✍️ **Credits**
 
-Thanks to **[Mohit Rajak](https://github.com/Mohit-Rajak/Mohit-Rajak)** – (Passionate Developer | Lifelong Learner | Open-Source Enthusiast).
+Thanks to **[Mohit Rajak](https://github.com/Mohit-Rajak)** – (Passionate Developer | Lifelong Learner | Open-Source Enthusiast).
 
 ---
 
-```md
+<details>
+
+<summary>Readme v1</summary>
+
 # Hi,👋 My name is Jeel Dobariya
 
 **Mini Software Engineer | Developer | Innovative Thinker**
@@ -112,4 +116,5 @@ I am a 16-year-old boy with a deep passion for computer programming and a strong
 
 [github_profile]: https://www.github.com/JeelDobariya38
 [linkedin]: https://www.linkedin.com/in/jeeldobariya
-```
+
+</details>
