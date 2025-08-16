@@ -2,7 +2,7 @@
 <h3 align="center">Mini Software Engineer | Developer | Innovative Thinker</h3>
 
 <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=JeelDobariya38.JeelDobariya38&format=true"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=JeelDobariya38.JeelDobariya38&format=true" alt="Visitor Counter (@hehuapei/visitor-badge)" />
 </p>
 
 ---
@@ -19,7 +19,7 @@ I am a 16-year-old boy with a deep passion for computer programming and a strong
 ## 🌐 **Portfolio & Projects**
 
 🔗 **Portfolio:** [My Portfolio](https://jeeldobariya38.github.io/Personal-Portfolio/)  
-📌 **Password Manager (Android App)** – [Release Page](https://github.com/JeelDobariya38/password-manager/releases) [Download Link](https://github.com/JeelDobariya38/password-manager/releases/download/v0.1.0/password-manager-app-universal-release.apk)  
+📌 **Passcodes (Android App)** – [Release Page](https://github.com/JeelDobariya38/Passcodes/releases) [Download Link](https://github.com/JeelDobariya38/Passcodes/releases/download/v1.0.0/passcodes-app-universal-release.apk)  
 🏡 **ScriptMaker (Web App)** – [Live Demo](https://jeeldobariya38.github.io/ScriptMaker/) [Repo](https://github.com/JeelDobariya38/ScriptMaker/)  
 💬 **PyFileHandling (PYPI Package)** – [Live Demo](https://pypi.org/project/pyfilehandling/) [Docs](https://jeeldobariya38.github.io/PyFileHandling/)  
 
@@ -28,10 +28,10 @@ I am a 16-year-old boy with a deep passion for computer programming and a strong
 ## 📊 **GitHub Stats**
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeelDobariya38&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=JeelDobariya38's%20Contribution%20Graph" alt="@ashutosh00710/github-readme-activity-graph" />
-    <img src="https://github-readme-stats.vercel.app/api?username=JeelDobariya38&show_icons=true&theme=radical" width="400px" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeelDobariya38&theme=radical" width="400px" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelDobariya38&layout=compact&theme=radical" width="400px" alt="Top Languages">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeelDobariya38&theme=tokyo-night&custom_title=JeelDobariya38's%20Contribution%20Graph" alt="Contribution Graph (@ashutosh00710/github-readme-activity-graph)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JeelDobariya38&show_icons=true&theme=radical" width="400px" alt="GitHub Stats" alt="Github Stats (@anuraghazra/github-readme-stats)">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeelDobariya38&theme=radical" width="400px" alt="GitHub Streak (@anuraghazra/github-readme-stats)">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelDobariya38&layout=compact&theme=radical" width="400px" alt="Top Languages (@anuraghazra/github-readme-stats)">
 </p>
 
 ---
