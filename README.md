@@ -45,7 +45,7 @@ I am a 16-year-old boy with a deep passion for computer programming and a strong
   <a href="mailto:dobariyaj34@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Email me" />
   </a>
-  <a href="https://www.instagram.com/jeel9582/">
+  <a href="https://www.instagram.com/jeel3495/">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" height="30" title="Follow on Instagram" />
   </a>
   <a href="https://github.com/JeelDobariya38">
