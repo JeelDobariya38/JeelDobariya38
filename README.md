@@ -18,12 +18,19 @@ I am a 16-year-old boy with a deep passion for computer programming and a strong
 
 ## 🌐 **Portfolio & Projects**
 
-🔗 **Portfolio:** [My Portfolio](https://jeeldobariya38.github.io/Personal-Portfolio/)  
+🔗 **Portfolio:** [My Portfolio](https://jeeldobariya38.github.io/)  
 📌 **Passcodes (Android App)** – [Home Page](https://passcodesapp.github.io/Passcodes-Website/) [Repo](https://github.com/PasscodesApp/Passcodes)  
 🏡 **ScriptMaker (Web App)** – [Live Demo](https://jeeldobariya38.github.io/ScriptMaker/) [Repo](https://github.com/JeelDobariya38/ScriptMaker/)  
 💬 **PyFileHandling (PYPI Package)** – [Live Demo](https://pypi.org/project/pyfilehandling/) [Docs](https://jeeldobariya38.github.io/PyFileHandling/)  
 
 ---
+
+Passcodes: 
+
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/PasscodesApp/Passcodes/latest/total?labelColor=black&color=blue&cacheSeconds=1000&link=https%3A%2F%2Fpasscodesapp.github.io%2FPasscodes-Website%2F)
+
+---
+
 
 ## 📊 **GitHub Stats**
 
@@ -45,11 +52,11 @@ I am a 16-year-old boy with a deep passion for computer programming and a strong
   <a href="mailto:dobariyaj34@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" height="30" title="Email me" />
   </a>
-  <a href="https://www.instagram.com/jeel3495/">
+  <a href="https://www.instagram.com/jeel3498/">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" height="30" title="Follow on Instagram" />
   </a>
   <a href="https://github.com/JeelDobariya38">
-    <img src="https://img.shields.io/github/followers/JeelDobariya38?label=GitHub&style=social" height="30" title="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" height="30" title="Follow on GitHub" />
   </a>
 </p>
 
