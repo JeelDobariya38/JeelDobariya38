@@ -1,5 +1,9 @@
-<h1 align="center">🚀 Hey there! I'm <span style="color:#ff6600">Jeel Dobariya (Mini Software Engineer)</span> 👋</h1>
-<h3 align="center">Mini Software Engineer | Developer | Open Source Contributor </h3>
+<h1 align="center">
+    🚀 Hey there! I'm Jeel Dobariya (Mini Software Engineer) 👋
+</h1>
+<h3 align="center">
+    Mini Software Engineer | Developer | Open Source Contributor 
+</h3>
 
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=JeelDobariya38.JeelDobariya38&format=true" alt="Visitor Counter (@hehuapei/visitor-badge)" />
@@ -7,7 +11,7 @@
 
 ---
 
-## 🚀 **About Me**
+## 🚀 About Me
 
 I from my 16 (year-old), has a deep passion for computer programming and a strong aspiration to become a young software engineer. From a young age, I have been captivated by the world of technology and the endless possibilities it offers for problem-solving and innovation. My journey in coding started with languages like C# (Unity Engine). Through self-guided learning and exploration, I have acquired a solid foundation in these languages and enjoy applying them in development of various projects. The process of creating software that can positively impact people's lives truly fascinates me. 
 
@@ -20,7 +24,7 @@ I am dedicated to staying up-to-date with the latest advancements in the tech in
 
 ---
 
-## 🌐 **Portfolio & Projects**
+## 🌐 Portfolio & Projects
 
 🔗 **Portfolio:** [My Portfolio](https://jeeldobariya38.github.io/)  
 📌 **Passcodes (Android App)** – [Home Page](https://passcodesapp.github.io/Passcodes-Website/) [Repo](https://github.com/PasscodesApp/Passcodes)  
@@ -29,14 +33,19 @@ I am dedicated to staying up-to-date with the latest advancements in the tech in
 
 ---
 
-Passcodes: 
+## Passcodes: 
 
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/PasscodesApp/Passcodes/latest/total?labelColor=black&color=blue&cacheSeconds=1000&link=https%3A%2F%2Fpasscodesapp.github.io%2FPasscodes-Website%2F)
+It my open souce password manager application, that we together develop, in [passcodes github organization](https://github.com/PasscodesApp).. Have look there.. & I Always appericate follow or star, thanks for your support (💜).. And it not my all alone work, it make with contribution... Great shout out to [@kudanilll](https://github.com/kudanilll) & [@hexCode63](https://github.com/hexCode63) for there support
+
+<p align="center">
+    <img src="https://img.shields.io/github/downloads/PasscodesApp/Passcodes/latest/total?labelColor=black&color=blue&cacheSeconds=1000&link=https%3A%2F%2Fpasscodesapp.github.io%2FPasscodes-Website%2F" alt="GitHub Downloads (all assets, latest release)" />
+</p>
+
 
 ---
 
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeelDobariya38&theme=tokyo-night&custom_title=JeelDobariya38's%20Contribution%20Graph" alt="Contribution Graph (@ashutosh00710/github-readme-activity-graph)" />
@@ -47,7 +56,7 @@ Passcodes:
 
 ---
 
-## 💬 **Let's Connect**
+## 💬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeeldobariya/">
@@ -66,7 +75,7 @@ Passcodes:
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=white" />
@@ -88,7 +97,7 @@ Passcodes:
 
 ---
 
-### ✍️ **Credits**
+### ✍️ Credits
 
 Thanks to **[Mohit Rajak](https://github.com/Mohit-Rajak)** – (Passionate Developer | Lifelong Learner | Open-Source Enthusiast).
 
