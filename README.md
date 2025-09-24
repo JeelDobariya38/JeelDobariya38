@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hey there! I'm <span style="color:#ff6600">Jeel Dobariya (Mini Software Engineer)</span> 👋</h1>
-<h3 align="center">Mini Software Engineer | Developer | Open Source </h3>
+<h3 align="center">Mini Software Engineer | Developer | Open Source Contributor </h3>
 
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=JeelDobariya38.JeelDobariya38&format=true" alt="Visitor Counter (@hehuapei/visitor-badge)" />
@@ -9,7 +9,11 @@
 
 ## 🚀 **About Me**
 
-I from 16 (year-old), has a deep passion for computer programming and a strong aspiration to become a young software engineer. From a young age, I have been captivated by the world of technology and the endless possibilities it offers for problem-solving and innovation. My journey in coding started with languages like Java, Python, and C#. Through self-guided learning and exploration, I have acquired a solid foundation in these languages and enjoy applying them in development of various projects. The process of creating software that can positively impact people's lives truly fascinates me. With each project I undertake, I strive to deepen my understanding of programming principles and expand my skill set. I eagerly embrace new challenges and am constantly seeking opportunities to learn and grow as a developer. I am motivated by the idea of contributing to the development of cutting-edge technologies and being part of a collaborative team that pushes the boundaries of innovation. Beyond coding, I am an avid learner who believes in the power of knowledge and its potential to transform lives. I am dedicated to staying up-to-date with the latest advancements in the tech industry. I am excited to connect with like-minded individuals, industry professionals, and mentors who share my passion for programming and can provide guidance and inspiration on this rewarding journey. Together, let's shape the future through technology!
+I from my 16 (year-old), has a deep passion for computer programming and a strong aspiration to become a young software engineer. From a young age, I have been captivated by the world of technology and the endless possibilities it offers for problem-solving and innovation. My journey in coding started with languages like C# (Unity Engine). Through self-guided learning and exploration, I have acquired a solid foundation in these languages and enjoy applying them in development of various projects. The process of creating software that can positively impact people's lives truly fascinates me. 
+
+I eagerly embrace new challenges and am constantly seeking opportunities to learn and grow as a developer. I am motivated by the idea of contributing to the development of cutting-edge technologies and being part of a collaborative team that pushes the boundaries of innovation.
+
+I am dedicated to staying up-to-date with the latest advancements in the tech industry. I am excited to connect with like-minded individuals, industry professionals, and mentors who share my passion for programming and can provide guidance and inspiration on this rewarding journey. Together, let's shape the future through technology!
 
 🔹 **Proficient in:** Python, Node.js, Express.js, Tailwind CSS, Git, GitHub, Java, C++.<br>
 🔹 **Currently Exploring:** Android, Godot, Java(DSA).<br>
