@@ -2,7 +2,7 @@
     🚀 Hey there! I'm Jeel Dobariya (Mini Software Engineer) 👋
 </h1>
 <h3 align="center">
-    Mini Software Engineer | Developer | Open Source Contributor 
+    Software Developer | Mini Software Engineer | Open Source Contributor 
 </h3>
 
 <p align="center">
@@ -19,8 +19,8 @@ I eagerly embrace new challenges and am constantly seeking opportunities to lear
 
 I am dedicated to staying up-to-date with the latest advancements in the tech industry. I am excited to connect with like-minded individuals, industry professionals, and mentors who share my passion for programming and can provide guidance and inspiration on this rewarding journey. Together, let's shape the future through technology!
 
-🔹 **Proficient in:** Python, Node.js, Express.js, Tailwind CSS, Git, GitHub, Java, C++.<br>
-🔹 **Currently Exploring:** Android, Godot, Java(DSA).<br>
+🔹 **Proficient in:** Python, Express.js, Tailwind CSS, Git, GitHub, Typescript, Kotlin. <br>
+🔹 **Currently Exploring:** Android, Web(React.js), Python(DSA).<br>
 
 ---
 
@@ -28,8 +28,7 @@ I am dedicated to staying up-to-date with the latest advancements in the tech in
 
 🔗 **Portfolio:** [My Portfolio](https://jeeldobariya38.github.io/)  
 📌 **Passcodes (Android App)** – [Home Page](https://passcodesapp.github.io/Passcodes-Website/) [Repo](https://github.com/PasscodesApp/Passcodes)  
-🏡 **ScriptMaker (Web App)** – [Live Demo](https://jeeldobariya38.github.io/ScriptMaker/) [Repo](https://github.com/JeelDobariya38/ScriptMaker/)  
-💬 **PyFileHandling (PYPI Package)** – [Live Demo](https://pypi.org/project/pyfilehandling/) [Docs](https://jeeldobariya38.github.io/PyFileHandling/)  
+🏡 **ScriptMaker (Web App)** – [Live Demo](https://jeeldobariya38.github.io/ScriptMaker/) [Repo](https://github.com/JeelDobariya38/ScriptMaker/)
 
 ---
 
@@ -92,5 +91,5 @@ It my open souce password manager application, that we together develop, in [pas
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Unity-007396?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
 </p>
