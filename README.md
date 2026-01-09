@@ -46,12 +46,24 @@ It my open souce password manager application, that we together develop, in [pas
 
 ## 📊 GitHub Stats
 
+<!---
+
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeelDobariya38&theme=tokyo-night&custom_title=JeelDobariya38's%20Contribution%20Graph" alt="Contribution Graph (@ashutosh00710/github-readme-activity-graph)" />
     <img src="https://github-readme-stats.vercel.app/api?username=JeelDobariya38&show_icons=true&theme=radical" width="400px" alt="GitHub Stats" alt="Github Stats (@anuraghazra/github-readme-stats)">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeelDobariya38&theme=radical" width="400px" alt="GitHub Streak (@anuraghazra/github-readme-stats)">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeelDobariya38&layout=compact&theme=radical" width="400px" alt="Top Languages (@anuraghazra/github-readme-stats)">
 </p>
+
+--->
+
+<div align="center">
+  <a href="https://github.com/JeelDobariya38">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeelDobariya38&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeelDobariya38&langs_count=6&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+    <img height="280em" width="800em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=JeelDobariya38&theme=material&radius=10" />
+  </a>
+</div>
 
 ---
 
