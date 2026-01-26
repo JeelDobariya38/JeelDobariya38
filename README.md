@@ -61,6 +61,7 @@ It my open souce password manager application, that we together develop, in [pas
   <a href="https://github.com/JeelDobariya38">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JeelDobariya38&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JeelDobariya38&langs_count=6&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+    <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=JeelDobariya38&theme=dark&hide_border=false" />
     <img height="280em" width="800em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=JeelDobariya38&theme=material&radius=10" />
   </a>
 </div>
