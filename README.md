@@ -15,9 +15,9 @@ I am 19 year old, I am a undergrade in CS. currently I am working on passcodes. 
 
 * 🌍  I'm based in Gujarat, India
 * ✉️  You can contact me at [jeeldobariya38@gmail.com](mailto:jeeldobariya38@gmail.com)
-* 🚀  I'm currently working on [Passcodes](http://(s)://Passcodes-Website/)
-* 🧠  I'm currently learning DSA
-* 👥  I'm looking to collaborate on Passcodes
+* 🚀  I'm currently working on [Passcodes](https://passcodesapp.github.io/Passcodes-Website/)
+* 🧠  I'm currently learning DSA.
+* 👥  I'm looking to collaborate on Passcodes.
 
 ## 🚀 About Me
 
@@ -25,8 +25,8 @@ I from my 16 (year-old), has a deep passion to become a young software engineer.
 
 I am dedicated to staying up-to-date with the latest advancements in the tech industry. I am excited to connect with like-minded individuals, industry professionals, and mentors who share my passion for programming and can provide guidance and inspiration on this rewarding journey. Together, let's shape the future through technology!
 
-🔹 **Proficient in:** Python, Express.js, Tailwind CSS, Git, GitHub, Typescript, Kotlin. <br>
-🔹 **Currently Exploring:** Expo, Web(React.js), Python(DSA).<br>
+🔹 **Proficient in:** Python, Express.js, Tailwind CSS, Git, GitHub, Typescript, Kotlin, Expo (React-Native) <br>
+🔹 **Currently Exploring:** Web(React.js), Python(DSA).<br>
 
 ---
 
